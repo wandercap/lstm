@@ -1,0 +1,37 @@
+[
+    {
+      "id": 6,
+      "name": "Aural",
+      "slug": "aural"
+    },
+    {
+      "id": 5,
+      "name": "Text",
+      "slug": "text"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality",
+      "slug": "virtual-reality"
+    },
+    {
+      "id": 2,
+      "name": "Third person",
+      "slug": "third-person"
+    },
+    {
+      "id": 1,
+      "name": "First person",
+      "slug": "first-person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view",
+      "slug": "bird-view"
+    },
+    {
+      "id": 4,
+      "name": "Side view",
+      "slug": "side-view"
+    }
+]
